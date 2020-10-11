@@ -10,8 +10,9 @@ In this project, I have taken the Olympics dataset(scraped from https://en.wikip
 
 
 
+### Appendix:
 
-###  Summer	:	
+####  Summer	:	
 #### No. of games played in Summer Olympics
 1. Gold_Summer	:	No. of gold medals won in Summer Olympics
 2. Silver_Summer	:	No. of silver medals won in Summer Olympics
