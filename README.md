@@ -15,6 +15,7 @@ In this project, I have taken the Olympics dataset(scraped from https://en.wikip
 4.	Bar Plotting
 5.	Mathematical operations
 
+## In this project based i follwed below steps to data wrangling, data munging, data visualization: 
 
 ### Step 1 - Data Loading
 1.	Load the dataframe from the path using pd.read_csv() and store the dataframe in a variable called 'data'.
