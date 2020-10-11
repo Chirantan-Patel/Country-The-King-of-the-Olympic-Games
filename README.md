@@ -20,7 +20,7 @@ In this project, I have taken the Olympics dataset(scraped from https://en.wikip
 4. Total_Summer	:	Total no. of all the medals won in Summer Olympics
 
 
-### Winter	:	
+#### Winter	:	
 #### No. of games played in Winter Olympics
 1. Gold_Winter	:	No. of gold medals won in Winter Olympics
 2. Silver_Winter	:	No. of silver medals won in Winter Olympics
@@ -28,7 +28,7 @@ In this project, I have taken the Olympics dataset(scraped from https://en.wikip
 4. Total_Winter	:	Total no. of all the medals won in Winter Olympics
 
 
-### Games	:	
+#### Games	:	
 #### Total no. of games played in both Summer and Winter Olympics
 1. Gold_Total	:	Total no. of gold medals won in both Summer and Winter Olympics
 2. Silver_Total	:	Total no. of silver medals won in both Summer and Winter Olympics
